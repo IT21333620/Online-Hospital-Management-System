@@ -1,0 +1,33 @@
+.photo{
+    float: left;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-right: 2.5%;
+    width: 30%;
+    height:400px;
+    background-color: cyan;
+
+}
+.det{
+    float: left;
+    width: 50%;
+    margin-top: 5%;
+    height: 400px;
+    background-color: blueviolet;
+
+}
+.BG{
+    background-color: #0093E9;
+    background-image: url("../Img/hospital.png");
+    background-size: cover;
+    height: 825px;
+
+}
+.res{
+    position: absolute;
+    background-color: coral;
+    top:675px;
+    margin-left: 10%;
+    margin-right: 9%;
+    
+}
